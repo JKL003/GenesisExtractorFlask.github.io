@@ -1,0 +1,4071 @@
+[{
+  "Date": "2020-04-04",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-04",
+  "Course": "SPANISH 4H",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-04",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-04",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-04",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-04",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-04",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-04",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-05",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-05",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-05",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-05",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-05",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-05",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-05",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-05",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-06",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-06",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-06",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-06",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-06",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-06",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-06",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-06",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-07",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-07",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-07",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-07",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-07",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-07",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-07",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-07",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-08",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-08",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-08",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-08",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-08",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-08",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-08",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-08",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-09",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-09",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-09",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-09",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-09",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-09",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-09",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-09",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-10",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-10",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-10",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-10",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-10",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-10",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-10",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-10",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-11",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-11",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-11",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-11",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-11",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-11",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-11",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-11",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-12",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-12",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-12",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-12",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-12",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-12",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-12",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-12",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-13",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-13",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-13",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-13",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-13",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-13",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-13",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-13",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-14",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-14",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-14",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-14",
+  "Course": "AP CALCULUS BC",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-14",
+  "Course": "AP BIOLOGY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-14",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 25.0,
+  "PW": 25.0
+},
+{
+  "Date": "2020-04-14",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-14",
+  "Course": "AP CHEMISTRY",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+}{
+  "Date": "2020-04-15",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-15",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-15",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-15",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-15",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-15",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 35.0,
+  "PW": 35.0
+},
+{
+  "Date": "2020-04-15",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-15",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+}{
+  "Date": "2020-04-16",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-16",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-16",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-16",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-16",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-16",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 35.0,
+  "PW": 35.0
+},
+{
+  "Date": "2020-04-16",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-16",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+}{
+  "Date": "2020-04-17",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-17",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-17",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-17",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-17",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-17",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 45.0,
+  "PW": 45.0
+},
+{
+  "Date": "2020-04-17",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-17",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+}{
+  "Date": "2020-04-18",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-18",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-18",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-18",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-18",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-18",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 45.0,
+  "PW": 45.0
+},
+{
+  "Date": "2020-04-18",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-18",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+}{
+  "Date": "2020-04-19",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-19",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-19",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-19",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-19",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-19",
+  "Course": "HEALTH 11",
+  "Grd": 100.0,
+  "PR": 45.0,
+  "PW": 45.0
+},
+{
+  "Date": "2020-04-19",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-19",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+}{
+  "Date": "2020-04-20",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-20",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-20",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-20",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-20",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-20",
+  "Course": "HEALTH 11",
+  "Grd": 92.31,
+  "PR": 60.0,
+  "PW": 65.0
+},
+{
+  "Date": "2020-04-20",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-20",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+}{
+  "Date": "2020-04-21",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 100.0,
+  "PW": 100.0
+},
+{
+  "Date": "2020-04-21",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-21",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 0,
+  "PR": 0,
+  "PW": 0
+},
+{
+  "Date": "2020-04-21",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-21",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-21",
+  "Course": "HEALTH 11",
+  "Grd": 92.31,
+  "PR": 60.0,
+  "PW": 65.0
+},
+{
+  "Date": "2020-04-21",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-21",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+}{
+  "Date": "2020-04-22",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-22",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-22",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 100.0,
+  "PR": 10.0,
+  "PW": 10.0
+},
+{
+  "Date": "2020-04-22",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-22",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-22",
+  "Course": "HEALTH 11",
+  "Grd": 96.97,
+  "PR": 160.0,
+  "PW": 165.0
+},
+{
+  "Date": "2020-04-22",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-22",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+}{
+  "Date": "2020-04-23",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-23",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-23",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 100.0,
+  "PR": 10.0,
+  "PW": 10.0
+},
+{
+  "Date": "2020-04-23",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-23",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-23",
+  "Course": "HEALTH 11",
+  "Grd": 96.97,
+  "PR": 160.0,
+  "PW": 165.0
+},
+{
+  "Date": "2020-04-23",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-23",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+}{
+  "Date": "2020-04-24",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-24",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-24",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 92.5,
+  "PR": 18.5,
+  "PW": 20.0
+},
+{
+  "Date": "2020-04-24",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-24",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-24",
+  "Course": "HEALTH 11",
+  "Grd": 98.11,
+  "PR": 260.0,
+  "PW": 265.0
+},
+{
+  "Date": "2020-04-24",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-24",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+}{
+  "Date": "2020-04-25",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-25",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-25",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 92.5,
+  "PR": 18.5,
+  "PW": 20.0
+},
+{
+  "Date": "2020-04-25",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-25",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-25",
+  "Course": "HEALTH 11",
+  "Grd": 98.11,
+  "PR": 260.0,
+  "PW": 265.0
+},
+{
+  "Date": "2020-04-25",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-25",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+}{
+  "Date": "2020-04-26",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 200.0,
+  "PW": 200.0
+},
+{
+  "Date": "2020-04-26",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-26",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 92.5,
+  "PR": 18.5,
+  "PW": 20.0
+},
+{
+  "Date": "2020-04-26",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-26",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-26",
+  "Course": "HEALTH 11",
+  "Grd": 98.11,
+  "PR": 260.0,
+  "PW": 265.0
+},
+{
+  "Date": "2020-04-26",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-26",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+}{
+  "Date": "2020-04-27",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-27",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-27",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 92.5,
+  "PR": 18.5,
+  "PW": 20.0
+},
+{
+  "Date": "2020-04-27",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-27",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-27",
+  "Course": "HEALTH 11",
+  "Grd": 98.11,
+  "PR": 260.0,
+  "PW": 265.0
+},
+{
+  "Date": "2020-04-27",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-27",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+}{
+  "Date": "2020-04-28",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-28",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-28",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 92.5,
+  "PR": 18.5,
+  "PW": 20.0
+},
+{
+  "Date": "2020-04-28",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-28",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-28",
+  "Course": "HEALTH 11",
+  "Grd": 98.11,
+  "PR": 260.0,
+  "PW": 265.0
+},
+{
+  "Date": "2020-04-28",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-28",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+}{
+  "Date": "2020-04-29",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 300.0,
+  "PW": 300.0
+},
+{
+  "Date": "2020-04-29",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-04-29",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 95.0,
+  "PR": 28.5,
+  "PW": 30.0
+},
+{
+  "Date": "2020-04-29",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-29",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-29",
+  "Course": "HEALTH 11",
+  "Grd": 98.63,
+  "PR": 360.0,
+  "PW": 365.0
+},
+{
+  "Date": "2020-04-29",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-29",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+}{
+  "Date": "2020-04-30",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-04-30",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-04-30",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 95.0,
+  "PR": 28.5,
+  "PW": 30.0
+},
+{
+  "Date": "2020-04-30",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-30",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-04-30",
+  "Course": "HEALTH 11",
+  "Grd": 98.63,
+  "PR": 360.0,
+  "PW": 365.0
+},
+{
+  "Date": "2020-04-30",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-04-30",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+}{
+  "Date": "2020-05-01",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-05-01",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-01",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 96.25,
+  "PR": 38.5,
+  "PW": 40.0
+},
+{
+  "Date": "2020-05-01",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-01",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-01",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-01",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-01",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+}{
+  "Date": "2020-05-02",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 400.0,
+  "PW": 400.0
+},
+{
+  "Date": "2020-05-02",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-02",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 96.25,
+  "PR": 38.5,
+  "PW": 40.0
+},
+{
+  "Date": "2020-05-02",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-02",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-02",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-02",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-02",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+}{
+  "Date": "2020-05-03",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-05-03",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-03",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 96.25,
+  "PR": 38.5,
+  "PW": 40.0
+},
+{
+  "Date": "2020-05-03",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-03",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-03",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-03",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-03",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+}{
+  "Date": "2020-05-04",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-05-04",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-04",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 96.25,
+  "PR": 38.5,
+  "PW": 40.0
+},
+{
+  "Date": "2020-05-04",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-04",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-04",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-04",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-04",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+}{
+  "Date": "2020-05-05",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 500.0,
+  "PW": 500.0
+},
+{
+  "Date": "2020-05-05",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-05",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 96.25,
+  "PR": 38.5,
+  "PW": 40.0
+},
+{
+  "Date": "2020-05-05",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-05",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-05",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-05",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-05",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+}{
+  "Date": "2020-05-06",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-06",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-06",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.0,
+  "PR": 48.5,
+  "PW": 50.0
+},
+{
+  "Date": "2020-05-06",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-06",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-06",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-06",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-06",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+}{
+  "Date": "2020-05-07",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-07",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-07",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.0,
+  "PR": 48.5,
+  "PW": 50.0
+},
+{
+  "Date": "2020-05-07",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-07",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-07",
+  "Course": "HEALTH 11",
+  "Grd": 98.92,
+  "PR": 460.0,
+  "PW": 465.0
+},
+{
+  "Date": "2020-05-07",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-07",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+}{
+  "Date": "2020-05-08",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-08",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-08",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.5,
+  "PR": 58.5,
+  "PW": 60.0
+},
+{
+  "Date": "2020-05-08",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-08",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-08",
+  "Course": "HEALTH 11",
+  "Grd": 99.12,
+  "PR": 560.0,
+  "PW": 565.0
+},
+{
+  "Date": "2020-05-08",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-08",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+}{
+  "Date": "2020-05-09",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 600.0,
+  "PW": 600.0
+},
+{
+  "Date": "2020-05-09",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-09",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.5,
+  "PR": 58.5,
+  "PW": 60.0
+},
+{
+  "Date": "2020-05-09",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-09",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-09",
+  "Course": "HEALTH 11",
+  "Grd": 99.12,
+  "PR": 560.0,
+  "PW": 565.0
+},
+{
+  "Date": "2020-05-09",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-09",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+}{
+  "Date": "2020-05-10",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-10",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-10",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.5,
+  "PR": 58.5,
+  "PW": 60.0
+},
+{
+  "Date": "2020-05-10",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-10",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-10",
+  "Course": "HEALTH 11",
+  "Grd": 99.12,
+  "PR": 560.0,
+  "PW": 565.0
+},
+{
+  "Date": "2020-05-10",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-10",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+}{
+  "Date": "2020-05-11",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-11",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-11",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.5,
+  "PR": 58.5,
+  "PW": 60.0
+},
+{
+  "Date": "2020-05-11",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-11",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-11",
+  "Course": "HEALTH 11",
+  "Grd": 99.12,
+  "PR": 560.0,
+  "PW": 565.0
+},
+{
+  "Date": "2020-05-11",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-11",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+}{
+  "Date": "2020-05-12",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-12",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-12",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.5,
+  "PR": 58.5,
+  "PW": 60.0
+},
+{
+  "Date": "2020-05-12",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-12",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-12",
+  "Course": "HEALTH 11",
+  "Grd": 99.12,
+  "PR": 560.0,
+  "PW": 565.0
+},
+{
+  "Date": "2020-05-12",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-12",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-13",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-13",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-05-13",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.86,
+  "PR": 68.5,
+  "PW": 70.0
+},
+{
+  "Date": "2020-05-13",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-13",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-13",
+  "Course": "HEALTH 11",
+  "Grd": 99.25,
+  "PR": 660.0,
+  "PW": 665.0
+},
+{
+  "Date": "2020-05-13",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-13",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-14",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-14",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-05-14",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 97.86,
+  "PR": 68.5,
+  "PW": 70.0
+},
+{
+  "Date": "2020-05-14",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-14",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-14",
+  "Course": "HEALTH 11",
+  "Grd": 99.25,
+  "PR": 660.0,
+  "PW": 665.0
+},
+{
+  "Date": "2020-05-14",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-14",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-15",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-15",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-15",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.12,
+  "PR": 78.5,
+  "PW": 80.0
+},
+{
+  "Date": "2020-05-15",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-15",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-15",
+  "Course": "HEALTH 11",
+  "Grd": 99.35,
+  "PR": 760.0,
+  "PW": 765.0
+},
+{
+  "Date": "2020-05-15",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-15",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-16",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 700.0,
+  "PW": 700.0
+},
+{
+  "Date": "2020-05-16",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-16",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.12,
+  "PR": 78.5,
+  "PW": 80.0
+},
+{
+  "Date": "2020-05-16",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-16",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-16",
+  "Course": "HEALTH 11",
+  "Grd": 99.35,
+  "PR": 760.0,
+  "PW": 765.0
+},
+{
+  "Date": "2020-05-16",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-16",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-17",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-17",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-17",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.12,
+  "PR": 78.5,
+  "PW": 80.0
+},
+{
+  "Date": "2020-05-17",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-17",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-17",
+  "Course": "HEALTH 11",
+  "Grd": 99.35,
+  "PR": 760.0,
+  "PW": 765.0
+},
+{
+  "Date": "2020-05-17",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-17",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-18",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-18",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-18",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.12,
+  "PR": 78.5,
+  "PW": 80.0
+},
+{
+  "Date": "2020-05-18",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-18",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-18",
+  "Course": "HEALTH 11",
+  "Grd": 99.35,
+  "PR": 760.0,
+  "PW": 765.0
+},
+{
+  "Date": "2020-05-18",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-18",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-19",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-19",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-19",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.12,
+  "PR": 78.5,
+  "PW": 80.0
+},
+{
+  "Date": "2020-05-19",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-19",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-19",
+  "Course": "HEALTH 11",
+  "Grd": 99.35,
+  "PR": 760.0,
+  "PW": 765.0
+},
+{
+  "Date": "2020-05-19",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-19",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-20",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-20",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-20",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.33,
+  "PR": 88.5,
+  "PW": 90.0
+},
+{
+  "Date": "2020-05-20",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-20",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-20",
+  "Course": "HEALTH 11",
+  "Grd": 99.42,
+  "PR": 860.0,
+  "PW": 865.0
+},
+{
+  "Date": "2020-05-20",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-20",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-21",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-21",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-21",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.33,
+  "PR": 88.5,
+  "PW": 90.0
+},
+{
+  "Date": "2020-05-21",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-21",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-21",
+  "Course": "HEALTH 11",
+  "Grd": 99.42,
+  "PR": 860.0,
+  "PW": 865.0
+},
+{
+  "Date": "2020-05-21",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-21",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-22",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-22",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-22",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.5,
+  "PR": 98.5,
+  "PW": 100.0
+},
+{
+  "Date": "2020-05-22",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-22",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-22",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-22",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-22",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-23",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-23",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-23",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.5,
+  "PR": 98.5,
+  "PW": 100.0
+},
+{
+  "Date": "2020-05-23",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-23",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-23",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-23",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-23",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-24",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-24",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-24",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.5,
+  "PR": 98.5,
+  "PW": 100.0
+},
+{
+  "Date": "2020-05-24",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-24",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-24",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-24",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-24",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-25",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-25",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-25",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.5,
+  "PR": 98.5,
+  "PW": 100.0
+},
+{
+  "Date": "2020-05-25",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-25",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-25",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-25",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-25",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-26",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-26",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-26",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.5,
+  "PR": 98.5,
+  "PW": 100.0
+},
+{
+  "Date": "2020-05-26",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-26",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-26",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-26",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-26",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-27",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-27",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-27",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.64,
+  "PR": 108.5,
+  "PW": 110.0
+},
+{
+  "Date": "2020-05-27",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-27",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-27",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-27",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-27",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-28",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-28",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1200.0,
+  "PW": 1200.0
+},
+{
+  "Date": "2020-05-28",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.64,
+  "PR": 108.5,
+  "PW": 110.0
+},
+{
+  "Date": "2020-05-28",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-28",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-28",
+  "Course": "HEALTH 11",
+  "Grd": 99.48,
+  "PR": 960.0,
+  "PW": 965.0
+},
+{
+  "Date": "2020-05-28",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-28",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+}{
+  "Date": "2020-05-29",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-29",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-05-29",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-05-29",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-05-29",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-29",
+  "Course": "HEALTH 11",
+  "Grd": 99.53,
+  "PR": 1060.0,
+  "PW": 1065.0
+},
+{
+  "Date": "2020-05-29",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-29",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-05-30",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-30",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-05-30",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-05-30",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-05-30",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 800.0,
+  "PW": 800.0
+},
+{
+  "Date": "2020-05-30",
+  "Course": "HEALTH 11",
+  "Grd": 99.53,
+  "PR": 1060.0,
+  "PW": 1065.0
+},
+{
+  "Date": "2020-05-30",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-30",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-05-31",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-05-31",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-05-31",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-05-31",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-05-31",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-05-31",
+  "Course": "HEALTH 11",
+  "Grd": 99.53,
+  "PR": 1060.0,
+  "PW": 1065.0
+},
+{
+  "Date": "2020-05-31",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-05-31",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-06-01",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-01",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-06-01",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-01",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-01",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-01",
+  "Course": "HEALTH 11",
+  "Grd": 99.53,
+  "PR": 1060.0,
+  "PW": 1065.0
+},
+{
+  "Date": "2020-06-01",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-01",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-06-02",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-02",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-06-02",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-02",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-02",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-02",
+  "Course": "HEALTH 11",
+  "Grd": 99.53,
+  "PR": 1060.0,
+  "PW": 1065.0
+},
+{
+  "Date": "2020-06-02",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-02",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-06-03",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-03",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1500.0,
+  "PW": 1500.0
+},
+{
+  "Date": "2020-06-03",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-03",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-03",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-03",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-03",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-03",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-06-04",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-04",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1500.0,
+  "PW": 1500.0
+},
+{
+  "Date": "2020-06-04",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-04",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-04",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-04",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-04",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-04",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+}{
+  "Date": "2020-06-05",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-05",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-05",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-05",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-05",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-05",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-05",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-05",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-06",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-06",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-06",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-06",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-06",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-06",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-06",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-06",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-07",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-07",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-07",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-07",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-07",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-07",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-07",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-07",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-08",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-08",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-08",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-08",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-08",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-08",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-08",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-08",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-09",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-09",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-09",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-09",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-09",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-09",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-09",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-09",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-10",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-10",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-10",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-10",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-10",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-10",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-10",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-10",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-11",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-11",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-11",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-11",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-11",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-11",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-11",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-11",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-12",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-12",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-12",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-12",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-12",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-12",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-12",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-12",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-13",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-13",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-13",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-13",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-13",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-13",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-13",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-13",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-14",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+},
+{
+  "Date": "2020-06-14",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-14",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-14",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-14",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-14",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-14",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-14",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-15",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-06-15",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-15",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-15",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-15",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-15",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-15",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-15",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}{
+  "Date": "2020-06-16",
+  "Course": "AP ENG/LANG & COMP",
+  "Grd": 100.0,
+  "PR": 1400.0,
+  "PW": 1400.0
+},
+{
+  "Date": "2020-06-16",
+  "Course": "SPANISH 4H",
+  "Grd": 100.0,
+  "PR": 1600.0,
+  "PW": 1600.0
+},
+{
+  "Date": "2020-06-16",
+  "Course": "AP MICROECONOMICS",
+  "Grd": 98.75,
+  "PR": 118.5,
+  "PW": 120.0
+},
+{
+  "Date": "2020-06-16",
+  "Course": "AP CALCULUS BC",
+  "Grd": 100.0,
+  "PR": 1000.0,
+  "PW": 1000.0
+},
+{
+  "Date": "2020-06-16",
+  "Course": "AP BIOLOGY",
+  "Grd": 100.0,
+  "PR": 900.0,
+  "PW": 900.0
+},
+{
+  "Date": "2020-06-16",
+  "Course": "HEALTH 11",
+  "Grd": 99.57,
+  "PR": 1160.0,
+  "PW": 1165.0
+},
+{
+  "Date": "2020-06-16",
+  "Course": "STUDY HALL FULL YEAR",
+  "Grd": "----",
+  "PR": "----",
+  "PW": "----"
+},
+{
+  "Date": "2020-06-16",
+  "Course": "AP CHEMISTRY",
+  "Grd": 100.0,
+  "PR": 1100.0,
+  "PW": 1100.0
+}]
